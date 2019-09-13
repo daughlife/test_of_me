@@ -1,0 +1,4 @@
+License For App:
+Login: abc
+Password: xyz
+Email: xxx@xxx
