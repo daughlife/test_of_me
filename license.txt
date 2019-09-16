@@ -1,3 +1,4 @@
+Jakies zmiany przed rebasee (z github master) 
 License For App:
 Login: abc
 Password: xyz
